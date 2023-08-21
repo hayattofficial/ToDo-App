@@ -6,7 +6,8 @@
 
 The Vue.js Task Manager is a simple web application that allows users to create and manage tasks. It's built with Vue.js and provides features for adding, editing, and deleting tasks.
 
-![Alt text](image-1.png)
+
+![Alt text](image.png)
 
 ## Features
 
